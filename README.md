@@ -7,6 +7,11 @@ https://www.festa.io/events/286 에 옵저버로 참가하며 작업했던 결�
 
 https://docs.google.com/presentation/d/1z5B5PKv4DV5MOa8YdE097VsJEHCfJVM0SY5lSFgEPdE/
 
+
+### 후기
+- 개발환경 셋업 1시간 - 뷰만 돌리는 환경이 익숙하지 않았다.
+- 스캐폴딩 1시간 - 
+
 ## Build Setup
 
 ``` bash
